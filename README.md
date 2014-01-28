@@ -1,2 +1,5 @@
 Iniciando novo projeto GIT Distribuido Remoto
-Treinamento sobre Branch
+
+<b>Treinamento sobre Branch</b>
+
+Consultando como configurar no VIM
