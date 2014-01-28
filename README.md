@@ -8,3 +8,4 @@ Consultando como configurar no VIM
 
 Testado README.md
 
+Mais umma vez <b><font color="red">Testado</font></b>
